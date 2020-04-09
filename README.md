@@ -1,1 +1,1 @@
-# rabbitmq-spring-consumer
+# rabbitmq-spring-consumer-xml-configuration
